@@ -1,14 +1,12 @@
 # HCIProject1
 
-## Link to Interactive Project
-
-
-
 ## Microwave Problems
 
 This is an image of my microwave at home as well as a gif showing how it is typically used.
 
 <img src="https://user-images.githubusercontent.com/26950614/109439973-19ff2780-79f6-11eb-9de4-36dd619990a8.jpg" alt="HCIMicrowavePhoto" width="400"/>
+
+![HCIMicrowaveGif](https://github.com/TheMysticalBard/HCIProject1/blob/master/HCIMicrowaveGif.gif)
 
 As you can see, there are some issues with the design of the microwave. First off, buttons such as "Popcorn" and "Potato" are given more importance than the start button or any of the number buttons, despite their relative lack of use. This makes the interface bulky and unintuitive. When first using a microwave, someone may see the large buttons for a variety of foods and search for the one matching their food. However, the microwave only provides a small sample of options. Secondly, there are some portions of text on the microwave that don't appear as buttons but are, like the number keys, or seem to be buttons but are not in actuality, like the "display on/off" button. Third, none of the buttons have tactile features, so this microwave cannot be used by blind persons. None of the buttons can be felt, and even pressing a button gives the user no tactile clicks. On top of that, there is no braille text or voice option anywhere to be found on the interface. There's an "AM or PM" button that doesn't make much sense. The clock button is important to make sure the clock is set right, but it doesn't need to be where it is, or even on the front panel of the device.
 
@@ -48,3 +46,4 @@ In order to determine the best button layout, I asked many of the people in my h
 
 ### Images
 
+![Prototype](https://user-images.githubusercontent.com/26950614/109453348-7161bf80-7a17-11eb-82a9-6d9ed81d68b7.png)
